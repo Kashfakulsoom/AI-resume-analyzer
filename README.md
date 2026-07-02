@@ -245,7 +245,7 @@ Example:
 
 # 👨‍💻 Author
 
-**Chitransh Nigam**
+**Kashfa Kulsoom**
 
 Full Stack Developer
 React • TypeScript • Node.js • AI Integration
