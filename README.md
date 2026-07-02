@@ -170,7 +170,7 @@ backend/
 ## Clone Repository
 
 ```
-git clone https://github.com/Chitranshnigam28/aiResumeAnalyzer.git
+git clone https://github.com/Kashfakulsoom/AI-resume-analyzer
 
 cd ai-resume-analyzer
 ```
